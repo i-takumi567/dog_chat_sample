@@ -7015,7 +7015,7 @@ s.ay$=k
 l=k}s.Hj(new A.ur(p,new A.AS(j),o,l,j))
 s.xT()},
 aqs(){if(B.d.u(window.navigator.userAgent.toLowerCase(),"windows"))return 1
-return 0.5},
+return 0.6},
 AS:function AS(a){this.a=a},
 pw:function pw(a){this.a=a},
 uF:function uF(){var _=this
