@@ -6773,13 +6773,11 @@ this.b=b},
 Ka:function Ka(){},
 K6:function K6(a){this.a=a},
 alK(){if(B.c.C(window.navigator.userAgent.toLowerCase(),"windows"))return 0.9
-return 0.5},
-a9I(a){var s="assets/idle.mov"
-switch(a.a){case 0:return s
+return 0.6},
+a9I(a){switch(a.a){case 0:return"assets/idle.mov"
 case 1:return"assets/listening.mov"
 case 2:return"assets/speaking.mov"
-case 3:return"assets/thinking.mov"
-default:return s}},
+case 3:return"assets/thinking.mov"}},
 lq:function lq(a,b){this.a=a
 this.b=b},
 fo:function fo(a,b){this.a=a
